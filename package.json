@@ -1,0 +1,26 @@
+{
+  "name": "consulta-cnpj-br",
+  "version": "1.0.0",
+  "description": "Consulta básica por CNPJ. Retorna Nome, endereço e situação.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagonascimentovilard/consulta-cnpj-br.git"
+  },
+  "keywords": [
+    "consulta",
+    "cnpj",
+    "empresa",
+    "receita",
+    "pessoajuridica"
+  ],
+  "author": "Tiago Nascimento <vilard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagonascimentovilard/consulta-cnpj-br/issues"
+  },
+  "homepage": "https://github.com/tiagonascimentovilard/consulta-cnpj-br#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
