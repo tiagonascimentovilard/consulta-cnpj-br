@@ -1,6 +1,6 @@
 {
   "name": "consulta-cnpj-br",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Consulta básica por CNPJ. Retorna Nome, endereço e situação.",
   "main": "src/index.js",
   "repository": {
